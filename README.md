@@ -72,8 +72,8 @@ Code template was mainly taken from [@Ludeeus](https://github.com/ludeeus)'s [in
 [black-shield]: https://img.shields.io/badge/code%20style-black-000000.svg?style=for-the-badge
 [buymecoffee]: https://www.buymeacoffee.com/carboncoop
 [buymecoffeebadge]: https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg?style=for-the-badge
-[commits-shield]: https://img.shields.io/github/commit-activity/y/carboncoop/powershaper.svg?style=for-the-badge
-[commits]: https://github.com/carboncoop/powershaper/commits/main
+[commits-shield]: https://img.shields.io/github/commit-activity/y/carboncoop/powershaper-homeassistant-custom-component.svg?style=for-the-badge
+[commits]: https://github.com/carboncoop/powershaper-homeassistant-custom-component/commits/main
 [hacs]: https://hacs.xyz
 [hacsbadge]: https://img.shields.io/badge/HACS-Custom-orange.svg?style=for-the-badge
 [discord]: https://discord.gg/Qa5fW2R
@@ -81,10 +81,10 @@ Code template was mainly taken from [@Ludeeus](https://github.com/ludeeus)'s [in
 [exampleimg]: example.png
 [forum-shield]: https://img.shields.io/badge/community-forum-brightgreen.svg?style=for-the-badge
 [forum]: https://community.home-assistant.io/
-[license-shield]: https://img.shields.io/github/license/carboncoop/powershaper.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/carboncoop/powershaper-homeassistant-custom-component.svg?style=for-the-badge
 [maintenance-shield]: https://img.shields.io/badge/maintainer-%40carboncoop-blue.svg?style=for-the-badge
 [pre-commit]: https://github.com/pre-commit/pre-commit
 [pre-commit-shield]: https://img.shields.io/badge/pre--commit-enabled-brightgreen?style=for-the-badge
-[releases-shield]: https://img.shields.io/github/release/carboncoop/powershaper.svg?style=for-the-badge
-[releases]: https://github.com/carboncoop/powershaper/releases
+[releases-shield]: https://img.shields.io/github/release/carboncoop/powershaper-homeassistant-custom-component.svg?style=for-the-badge
+[releases]: https://github.com/carboncoop/powershaper-homeassistant-custom-component/releases
 [user_profile]: https://github.com/carboncoop
