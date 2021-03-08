@@ -1,0 +1,18 @@
+add_openadr_telemetry:
+  description: Generate an OpenADR telemetry report and queue this to send to the server. Can be any arbitrary JSON but will not be sent unless it matches a report defined in the configuration
+  fields:
+    report_specifier_id:
+      description: This is the 'name' of the OpenADR telemetry report as defined in the configuration.
+      example: ccoop_telemetry_evse_status
+    values:
+      description: This is a JSON array of telemetry values. Only field names which match ones defined in the configuration will be added to telemetry report.
+      example: "{\"state\": 21, \"amp\": 240, \"wh\": 250}"
+get_openadr_telemetry_json_from_endpoint:
+  description: Retrieve JSON of values from a /status endpoint at the given IP address.
+  fields:
+    report_specifier_id:
+      description: This is the 'name' of the OpenADR telemetry report as defined in the configuration.
+      example: ccoop_telemetry_evse_status
+    url:
+      description: This is the URL or preferably an IPv4 or IPv6 address of the status endpoint.
+      example: "http://10.42.0.80"

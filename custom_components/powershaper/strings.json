@@ -1,0 +1,19 @@
+{
+    "config": {
+        "title": "PowerShaper",
+        "step": {
+            "user": {
+                "title": "Input your Installation Shortcode",
+                "data": {
+                    "installation_shortcode": "Installation Shortcode"
+                }
+            }
+        },
+        "abort": {
+            "problem_getting_CA_cert": "There was a problem getting the CA cert from the server",
+            "problem_saving_CA_cert": "There was a problem saving the CA cert",
+            "problem_getting_client_pem": "There was a problem getting the client pem bundle from the server",
+            "problem_saving_client_pem": "There was a problem saving the client pem bundle"
+        }
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "domain": "powershaper",
+  "name": "PowerShaper",
+  "config_flow": true,
+  "documentation": "https://powershaper.io",
+  "dependencies": [],
+  "codeowners": [
+    "@carboncoop"
+  ],
+  "requirements": [
+    "pem",
+    "pyoadr_ven==0.4.8"
+  ]
+}
